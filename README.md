@@ -4,4 +4,4 @@
 
 For any questions, please email [support@codersforberniesanders.com](mailto:support@codersforberniesanders.com)
 
-By using the app, you agree to the [terms of service](https://berniebnb.s3.amazonaws.com/terms_and_conditions.html) and [privacy policy](https://berniebnb.s3.amazonaws.com/privacy_policy.html).
+By using the app, you agree to the [terms and conditions](/terms-and-conditions/) and [privacy policy](/privacy-policy/).
